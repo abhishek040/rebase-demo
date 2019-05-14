@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+TR - QA 
     <name> -- <role> -- <twitter>
 # I am Abhishek email id: abhishek23432@gmail.com
 # I belong to QA team
